@@ -16,8 +16,21 @@ public class BasicosRafaPiñol {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-  
+        cadenas();
     }
+    public static void cadenas() {
+
+        //Estos son los tipos básicos
+        String s;
+
+        //Ejemplos de asignación de valores a las variables de tipos básicos
+        s="esto es una muestra de una cadena con String";
+        
+        //impresion de una cadena.
+        
+        System.out.println(s);
+    }
+    
     
     
 }
